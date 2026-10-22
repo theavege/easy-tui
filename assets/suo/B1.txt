@@ -1,0 +1,66 @@
+Keskustella - TO DISCUSS
+Päättää - TO DECIDE
+Suunnitella - TO PLAN
+Ajatella - TO THINK
+Uskoa - TO BELIEVE
+Selvittää - TO CLARIFY / TO FIGURE OUT
+Sopua - TO AGREE
+Tunnistaa - TO RECOGNIZE / TO IDENTIFY
+Kuvailla - TO DESCRIBE
+Selittää - TO EXPLAIN
+Harjoitella - TO PRACTICE
+Kokemus - EXPERIENCE
+Ongelma - PROBLEM
+Ratkaisu - SOLUTION
+Tieto - INFORMATION / KNOWLEDGE
+Ajatus - THOUGHT / IDEA
+Tilanne - SITUATION
+Tapahtuma - EVENT
+Haave - DREAM (ASPIRATION)
+Tavoite - GOAL / AIM
+Yhteiskunta - SOCIETY
+Vapaus - FREEDOM
+Oikeus - JUSTICE / RIGHT
+Julkinen - PUBLIC
+Yksityinen - PRIVATE
+Käytännöllinen - PRACTICAL
+Rehellinen - HONEST
+Vilkas - LIVELY / BUSY
+Ahkera - HARD-WORKING
+Avulias - HELPFUL
+Epätavallinen - UNUSUAL
+Monimutkainen - COMPLEX
+Yksinkertainen - SIMPLE
+Onnellinen - HAPPY
+Surullinen - SAD
+Vihainen - ANGRY
+Hermostunut - NERVOUS
+Varmasti - CERTAINLY / SURELY
+Siksi - THEREFORE / THAT'S WHY
+Vaikka - ALTHOUGH / EVEN IF
+Lisäksi - IN ADDITION / BESIDES
+Kuitenkin - HOWEVER / YET
+Ennen kuin - BEFORE (CONJUNCTION)
+Sen jälkeen kun - AFTER (CONJUNCTION)
+Koska - BECAUSE
+Sillä - FOR / BECAUSE (MORE FORMAL)
+Jotta - IN ORDER TO (SO THAT)
+Ammatti - PROFESSION
+Työpaikka - WORKPLACE / JOB
+Palkka - SALARY
+Koulutus - EDUCATION / TRAINING
+Opettaja - TEACHER
+Oppilas / Opiskelija - STUDENT
+Koe - EXAM / TEST
+Tietokone - COMPUTER
+Sähköposti - EMAIL
+Internet - INTERNET
+Ohjelmisto - SOFTWARE
+Luonto - NATURE
+Metsä - FOREST
+Järvi - LAKE
+Vuori - MOUNTAIN
+Rannikko - COAST / COASTLINE
+Yleensä - GENERALLY / USUALLY
+Erilainen - DIFFERENT
+Samanlainen - SIMILAR

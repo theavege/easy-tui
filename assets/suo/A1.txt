@@ -1,0 +1,170 @@
+Hyvää huomenta - GOOD MORNING
+Hyvää päivää - GOOD DAY
+Hyvää iltaa - GOOD EVENING
+Hyvää yötä - GOOD NIGHT
+Näkemiin - GOODBYE
+Kiitos - THANK YOU
+Ole hyvä - YOU'RE WELCOME
+Anteeksi - EXCUSE ME / SORRY
+Kyllä - YES
+Ei - NO
+Olla - TO BE
+Tulla - TO COME
+Mennä - TO GO
+Tehdä - TO DO / TO MAKE
+Syödä - TO EAT
+Juoda - TO DRINK
+Puhua - TO SPEAK
+Nukkua - TO SLEEP
+Työskennellä - TO WORK
+Opiskella - TO STUDY
+Haluta - TO WANT
+Katsoa - TO WATCH / TO LOOK
+Mies - MAN / HUSBAND
+Nainen - WOMAN / WIFE
+Poika - BOY / SON
+Tyttö - GIRL / DAUGHTER
+Lapsi - CHILD
+Äiti - MOTHER
+Isä - FATHER
+Ystävä - FRIEND
+Minä - I
+Sinä - YOU (SINGULAR)
+Hän - HE/SHE
+Me - WE
+Te - YOU (PLURAL/FORMAL)
+He - THEY
+Koti - HOME
+Talo - HOUSE
+Asunto - APARTMENT
+Kauppa - SHOP / STORE
+Koulu - SCHOOL
+Ravintola - RESTAURANT
+Pankki - BANK
+Auto - CAR
+Puhelin - PHONE
+Kirja - BOOK
+Pöytä - TABLE
+Tuoli - CHAIR
+Sänky - BED
+Ruoka - FOOD
+Vesi - WATER
+Maito - MILK
+Kahvi - COFFEE
+Tee - TEA
+Leipä - BREAD
+Juusto - CHEESE
+Omena - APPLE
+Tänään - TODAY
+Huomenna - TOMORROW
+Viikko - WEEK
+Päivä - DAY
+Yö - NIGHT
+Yksi - ONE
+Kaksi - TWO
+Kolme - THREE
+Neljä - FOUR
+Viisi - FIVE
+Kuusi - SIX
+Seitsemän - SEVEN
+Kahdeksan - EIGHT
+Yhdeksän - NINE
+Kymmenen - TEN
+Hyvä - GOOD
+Huono - BAD
+Iso - BIG
+Pieni - SMALL
+Uusi - NEW
+Vanha - OLD
+Suuri - GREAT / LARGE
+Pieni - SMALL
+Kaunis - BEAUTIFUL
+Kylmä - COLD
+Lämmin - WARM
+Päivä - DAY
+Viikko - WEEK
+Kuukausi - MONTH
+Vuosi - YEAR
+Huomenna - TOMORROW
+Eilen - YESTERDAY
+Aamu - MORNING
+Ilta - EVENING
+Sää - WEATHER
+Aurinko - SUN
+Sade - RAIN
+Lumi - SNOW
+Tuuli - WIND
+Kauppa - STORE/SHOP
+Ostaa - TO BUY
+Myydä - TO SELL
+Hinta - PRICE
+Tarjous - OFFER/DISCOUNT
+Käteinen - CASH
+Kortti - CARD (DEBIT/CREDIT)
+Keskusta - CITY CENTER
+Bussi - BUS
+Juna - TRAIN
+Lentokone - AIRPLANE
+Lippu - TICKET
+Matkustaa - TO TRAVEL
+Saapua - TO ARRIVE
+Lähteä - TO LEAVE/DEPART
+Asema - STATION
+Isä - FATHER
+Äiti - MOTHER
+Veli - BROTHER
+Sisko - SISTER
+Lapsi - CHILD
+Ystävä - FRIEND
+Työkaveri - COLLEAGUE
+Naapuri - NEIGHBOR
+Sairaala - HOSPITAL
+Lääkäri - DOCTOR
+Apteekki - PHARMACY
+Sairas - SICK/ILL
+Lääke - MEDICINE
+Hätänumero - EMERGENCY NUMBER
+Keittiö - KITCHEN
+Makuuhuone - BEDROOM
+Olohuone - LIVING ROOM
+Kylpyhuone - BATHROOM
+Pöytä - TABLE
+Tuoli - CHAIR
+Sohva - SOFA/COUCH
+Jääkaappi - FRIDGE
+Syödä - TO EAT
+Juoda - TO DRINK
+Aamiainen - BREAKFAST
+Lounas - LUNCH
+Illallinen - DINNER
+Kahvi - COFFEE
+Leipä - BREAD
+Maito - MILK
+Vesi - WATER
+Hedelmä - FRUIT
+Kasvis - VEGETABLE
+Olla - TO BE
+Tehdä - TO DO/MAKE
+Mennä - TO GO
+Tulla - TO COME
+Tietää - TO KNOW (A FACT)
+Haluta - TO WANT
+Voida - TO BE ABLE TO/CAN
+Pitää - TO LIKE/TO HAVE TO
+Välillä - SOMETIMES/BETWEEN
+Lisäksi - IN ADDITION/BESIDES
+Vaikka - ALTHOUGH/EVEN IF
+Siksi - THEREFORE/THAT'S WHY
+Sitten - THEN/AFTERWARDS
+Ennen kuin - BEFORE (CONJUNCTION)
+Hyvä - GOOD
+Huono - BAD
+Iso - BIG
+Pieni - SMALL
+Vanha - OLD
+Uusi - NEW
+Kaunis - BEAUTIFUL
+Kylmä - COLD
+Lämmin - WARM
+Helppo - EASY
+Vaikea - DIFFICULT

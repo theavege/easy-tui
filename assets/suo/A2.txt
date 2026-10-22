@@ -1,0 +1,318 @@
+IhmisKeho - ЧЕЛОВЕЧЕСКОЕ ТЕЛО
+KehonOsat - ЧАСТИ ТЕЛА
+AataminOmena - КАДЫК
+Emätin - ВЛАГАЛИЩЕ
+Hammas - ЗУБ
+Hartia - ПЛЕЧО
+Hiukset - ВОЛОСЫ
+Huuli - ГУБА
+Ien - ДЕСНА
+Iho - КОЖА
+IsoVarvas - БОЛЬШОЙ ПАЛЕЦ НОГИ
+JalkaHolvi - ПОДЪЁМ СТОПЫ
+JalkaPohja - СТУПНЯ
+JalkaTerä - СТОПА
+KainaloKuoppa - ПОДМЫШКА
+Kallo - ЧЕРЕП
+KantaPää - ПЯТКА
+Kasvot - ЛИЦО
+Kaula - ШЕЯ
+KeskiSormi - СРЕДНИЙ ПАЛЕЦ
+Kieli - ЯЗЫК
+Kitalaki - НЁБО
+Kives - ЯИЧКО
+Korva - УХО
+KorvanIpukka - МОЧКА УХА
+Kulmakarva - БРОВЬ
+Kurkku - ГОРЛО
+KylkiLuu - РЕБРО
+Kynsi - НОГОТЬ
+KyynärPää - ЛОКОТЬ
+Kämmen - ЛАДОНЬ
+Käsi - РУКА
+KäsiRaaja - КОНЕЧНОСТЬ
+KäsiTerä - КИСТЬ
+KäsiVarsi - РУКА
+Lantio - ТАЗ
+LapaLuu - ЛОПАТКА
+Leuka - ПОДБОРОДОК
+Lonkka - БЕДРО
+LonkkaLuu - БЕДРЕННАЯ КОСТЬ
+Maha - ЖИВОТ
+Napa - ПУПОК
+Nenä - НОС
+Nilkka - ПРЕДПЛЮСНА / ЛОДЫЖКА
+Niska - ШЕЯ
+Nivus - ПАХ
+NivusTaive - ПАХОВЫЙ СГИБ
+Nänni - СОСОК
+Ohimo - ВИСОК
+OlkaPää - ПЛЕЧО
+OlkaVarsi - ПРЕДПЛЕЧЬЕ
+Otsa - ЛОБ
+Pakara - ЯГОДИЦА
+Peukalo - БОЛЬШОЙ ПАЛЕЦ (руки)
+PikkuSormi - МИЗИНЕЦ (руки)
+Polvi - КОЛЕНО
+PolviLumpio - КОЛЕННАЯ ЧАШЕЧКА
+Poski - ЩЕКА
+PääNahka - СКАЛЬП
+Raaja - КОНЕЧНОСТЬ
+Ranne - ЗАПЯСТЬЕ
+Reisi - БЕДРО
+Rinta - ГРУДЬ
+RintaKehä - ГРУДНАЯ КЛЕТКА
+RintaLasta - ГРУДИНА
+RintaSelkä - ПОЯСНИЦА
+Selkä - СПИНА
+SelkäRanka - ПОЗВОНОЧНИК
+SelkäYdin - СПИННОЙ МОЗГ
+Sierain - НОЗДРЯ
+Siitin - ПЕНИС
+Silmä - ГЛАЗ
+SilmäMuna - ГЛАЗНОЕ ЯБЛОКО
+SilmäRipsi - РЕСНИЧКА
+SilmäTerä - ЗРАЧОК
+SolisLuu - КЛЮЧИЦА
+SormenPää - КОНЧИК ПАЛЬЦА
+Sormi - ПАЛЕЦ
+SukuPuoliElimet - ПОЛОВЫЕ ОРГАНЫ
+Suu - РОТ
+Sääri - ГОЛЕНЬ
+Takamus - ЗАД / ЗАДНЯЯ ЧАСТЬ
+VarpaanKynsi - НОГОТЬ НА ПАЛЬЦЕ НОГИ
+Vartalo - ТУЛОВИЩЕ / ТЕЛО
+Varvas - ПАЛЕЦ НОГИ
+Vatsa - ЖЕЛУДОК / ЖИВОТ
+VäriKalvo - РАДУЖНАЯ ОБОЛОЧКА ГЛАЗА / ИРИС
+SisäElimet - ВНУТРЕННИЕ ОРГАНЫ
+Aivot - МОЗГ
+EtuRauhanen - ПРОСТАТА / ПРЕДСТАТЕЛЬНАЯ ЖЕЛЕЗА
+Haima - ПОДЖЕЛУДОЧНАЯ ЖЕЛЕЗА
+HenkiTorvi - ДЫХАТЕЛЬНОЕ ГОРЛО
+Keuhko - ЛЁГКОЕ
+Kohtu - МАТКА
+KurkunPää - ГОРТАНЬ
+MahaLaukku - ЖЕЛУДОК
+Maksa - ПЕЧЕНЬ
+MunanJohdin - МАТОЧНАЯ ТРУБА / ЯЙЦЕВОД
+MunaSarja - ЯИЧНИК
+MunuAinen - ПОЧКА
+Nielu - ГЛОТКА
+OhutSuoli - ТОНКАЯ КИШКА
+PaksuSuoli - ТОЛСТАЯ КИШКА
+Perna - СЕЛЕЗЁНКА
+PeräAukko - АНУС / ЗАДНИЙ ПРОХОД / АНАЛЬНОЕ ОТВЕРСТИЕ
+PeräSuoli - ПРЯМАЯ КИШКА
+RuokaTorvi - ПИЩЕВОД / ГЛОТКА
+Sappi - ЖЕЛЧЬ
+SappiRakko - ЖЕЛЧНЫЙ ПУЗЫРЬ
+SiemenJohdin - СЕМЯПРОВОД
+Suolet - КИШКИ
+Suolisto - КИШЕЧНИК
+Sydän - СЕРДЦЕ
+Umpilisäke - , /SUOLI СЛЕПАЯ КИШКА
+VirtsaPutki - УРЕТРА / МОЧЕИСПУСКАТЕЛЬНЫЙ КАНАЛ
+VirtsaRakko - МОЧЕВОЙ ПУЗЫРЬ
+Kudokset - TКАНИ
+Hermo - НЕРВ
+Iho - КОЖА
+Jänne - СУХОЖИЛИЕ
+Kalvo - ПЛЕВРАЛЬНАЯ ОБОЛОЧКА / ПЛЕВА
+Lihas - МУСКУЛ
+Lima - СЛИЗЬ
+LimaKalvo - СЛИЗИСТАЯ ОБОЛОЧКА
+Luu - КОСТЬ
+Nivel - СУСТАВ
+Rasva - ЖИР
+Rauhanen - ЖЕЛЕЗА / ГЛАНД
+Rusto - ХРЯЩ
+AmmattiKorkeaKoulu - УНИВЕРСИТЕТ ПРИКЛАДНЫХ НАУК
+AmmattiOpinnot - ПРОФЕССИОНАЛЬНЫЕ КУРСЫ
+ArviointiAsteikko - СИСТЕМА ОЦЕНИВАНИЯ, ОЦЕНОЧНАЯ ШКАЛА
+ArviointiKriteerit - КРИТЕРИИ ОЦЕНИВАНИЯ
+ArviointiMenetelmä - МЕТОД ОЦЕНИВАНИЯ
+EtäOpiskelu - ДИСТАНЦИОННОЕ ОБУЧЕНИЕ
+EtäTehtävä - ДИСТАНЦИОННОЕ ЗАДАНИЕ
+Harjoittelu - ПРАКТИКА, СТАЖИРОВКА
+Ilmoittautuminen - ЗАПИСЬ, РЕГИСТРАЦИЯ
+Itsenäinen opiskelu - САМОСТОЯТЕЛЬНОЕ ОБУЧЕНИЕ
+KevätLukuKausi - ВЕСЕННИЙ СЕМЕСТР
+Koulutus ohjelma - ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА
+KoulutusPäällikkö - РУКОВОДИТЕЛЬ ОБРАЗОВАТЕЛЬНОЙ ПРОГРАММЫ
+Käyttäjätunnus - ЛОГИН
+LukuKausi - СЕМЕСТР
+LukuVuosi - УЧЕБНЫЙ ГОД
+LähiOpetus - ОЧНОЕ ОБУЧЕНИЕ
+LähtöTaso - ИСХОДНЫЙ УРОВЕНЬ
+LäsnäOlo - ПРИСУТСТВИЕ НА МЕСТЕ В РЕЖИМЕ ЖИВОГО ОБУЧЕНИЯ
+OpettajaTutor - ПРЕПОДАВАТЕЛЬ-ТЬЮТОР
+OpetusSuunnitelma - УЧЕБНЫЙ ПЛАН
+OpinNäytetyö - ДИПЛОМНАЯ РАБОТА
+OpintoJakso - КУРС (ЛЕКЦИИ, СЕМИНАРЫ, ПРАКТИЧЕСКИЕ ЗАНЯТИЯ, САМОСТОЯТЕЛЬНАЯ РАБОТА И Т.Д.)
+OpintoJakson sisältö - СОДЕРЖАНИЕ КУРСА
+OpintoJakson tavoitteet - цель, задачи курса
+OpintoKuraattori - куратор по вопросам обучения
+Opinto-opas - руководство/справочник студента
+OpintoPiste - зачетная единица или кредит
+OpiskelijaKunta - студенческий союз
+OpiskelijaNumero - студенческий номер
+OpiskelijaPalvelut - студенческие услуги
+OpiskeluTerveydenhuolto - здравоохранение студентов
+OpiskeluOikeus - право на обучение
+Oppilaitos - учебное заведение
+OppiMateriaali - учебный материал
+OppiMisalusta - учебный портал, учебная платформа
+PerusOpinnot - базовые курсы
+PysäköintiAlue - стоянка для машин
+PysäköintiLupa - парковочное разрешение
+PäiväToteutus - дневное обучение
+Salasana - пароль
+Suoritus - зачёт
+SyysLukuKausi - осенний семестр
+Tentti - экзамен
+Tutkinto - ученая степень
+TutkintoNimike - название специализации
+TutorOpiskelija - студент тьютор (поддерживает и помогает адаптироваться новым студентам)
+Työjärjestys - график/распорядок/расписание
+Uusinta - пересдача
+ValmistumisPäivä - дата выпуска, дата окончания
+VahtiMestari - вахтёр
+AlusAstia - подкладное судно
+AlusLakana - простыня
+Antiseptinen liuos - антисептический раствор
+Atulat - пинцет
+AvaruusPeite, avaruusLakana - аварийное одеяло
+Defibrillaattori - дефибриллятор
+DesinfektioPyyhe - дезинфицирующая салфетка
+Desinfioitilaite, deko - моюще-дезинфицирующая машина
+Dosetti - таблетница, дозатор
+Ekg-laite, SydänFilmi - аппарат ЭКГ, кардиограф
+EnsiApuLaukku - аптечка первой помощи
+Geriatrinen tuoli - гериатрический стул
+HaavasIdos - повязка на рану
+HammasHarja - зубная щетка
+HammasProteesi - зубной протез
+HammasTahna - ЗУБНАЯ ПАСТА
+HappiPullo - КИСЛОРОДНЫЙ БАЛЛОН
+Harja - ЩЕТКА
+HätäPoistumistie - ЭВАКУАЦИОННЫЙ ВЫХОД
+Imulaitteisto, imu - ОБОРУДОВАНИЕ ДЛЯ ВСАСЫВАНИЯ
+Imuletku - АСПИРАТОР
+Infuusioteline, tippateline - ИНФУЗИОННАЯ СТОЙКА
+Inhalaattori - ИНГАЛЯТОР
+Injektioruisku - ШПРИЦ ДЛЯ ИНЪЕКЦИЙ
+InsuliiniKynä - ИНСУЛИНОВЫЙ ШПРИЦ
+Kaarimalja - ПОЧКООБРАЗНЫЙ ЛОТОК
+Kampa - ГРЕБЕНЬ
+KertaKäyttöKäsineet - одноразовые перчатки
+KestoKatetri, VirtsaKatetri - мочевой катетер
+Kipumittari - визуально аналоговая шкала для оценки интенсивности боли
+Kiristysside - жгут
+KorvaLamppu, Otoskooppi - отоскоп, инструмент для осмотра ушного канала
+KuumeMittari - термометр
+KylmäPussi - холодный компресс
+KynsiLeikkuri - щипчики для ногтей
+KynsiSakset - ножницы для ногтей
+KäsiHuuhde, KäsiDesi - дезинфицирующее средство для рук
+KäsiPyyhe - полотенце для рук
+KävelyTeline, eva-teline - ходунки
+Laastari - лейкопластырь
+Lattianostin - передвижной подъемник
+LiinaVaatteet - постельное белье
+LiukuLakana - раздвижная простыня для переноса пациента
+Lima - слизь
+LonkkaHousut - штанина с защитой бедра
+LämpöTyyny - грелка
+LääkeKaappi - аптечка
+LääkeLaastari - лечебный пластырь
+LääkeMuki, lääkelasi - чашка для лекарств, стакан для лекарств
+LääkeMurskain - измельчитель таблеток
+LääkePussi - пакетик для лекарств
+LääkeRulla - рулон с пакетиками для лекарств
+NenäSuihke, NenäSumute - назальный спрей
+NokkaMuki - поильник
+NousuTuki - боковые поручни для кровати
+NäytePurkki - контейнер для анализов
+NäyteTikku - ватная палочка для анализов
+OksennusPussi - мешок для рвоты
+Paarit - носилки
+PaloHälytys - пожарная сигнализация
+PaloPosti - пожарный гидрант
+PaloSammutin - огнетушитель
+PaperiPyyhe - бумажное полотенце
+PartaHöylä - бритва
+PartaKone - электробритва
+Pef-mittari - измеритель пикового потока/ пикфлоуметр
+Peitto, peite - одеяло
+PelastusLakana - спасательные носилки
+PesuAllas, allas - умывальник, раковина
+PesuNeste - моющее средство
+PesuVoide - моющий крем
+Pilli - соломка
+Pinsetit, atulat - пинцет, щипцы
+PoikkiLakana - простынь поперек
+Portatiivi - портативный туалет
+PulssiOksimetri, SaturaatioMittari - пульсоксиметр
+Puulastain - деревянный депрессор языка
+Pyyheliina - полотенце
+PyöräTuoli - инвалидное кресло-коляска
+Sakset - ножницы
+SammutusPeite - противопожарное полотно
+SeisomaNojanostin - подъемник-вертикализатор
+Side - бинт, повязка
+SideTaitos - сложенный бинт
+SiirtoVyö, NostoVyö - пояс для трансфера пациента
+SilmäLasit - очки
+SilmäTipat - глазные капли
+SoittoKello - кнопка вызова (медицинского персонала)
+Stetoskooppi - стетоскоп
+Suihku - душ
+SuihkuMyssy - шапочка для душа
+SuihkuPaarit, SuihkuSänky, Britsi - каталка для душа
+SuihkuTuoli - стул для душа
+SuuSuoja, SuuNenäSuoja - хирургическая/ медицинская маска
+Sänky - кровать
+Tabletin, pillerin puolittaja - резак для таблеток
+Talkki - тальк
+TalousPaperi - бумажная салфетка
+Tarjotin - поднос
+Teippi - клейкая лента
+TukiKahva - поручень (для инвалидов)
+TukiSide - эластичный бинт
+Turneri - ручной вертикализатор (приспособление для поворота)
+Tyyny - подушка
+TyynyLiina - наволочка
+Vaaka - весы
+Vaippa - подгузник
+Vanupuikko - ватная палочка
+VenturiMaski, HappiMaski - кислородная маска
+VerenPaineMittari - тонометр (прибор для измерения кровяного давления)
+VerenSokeriMittari - глюкометр (прибор для измерения содержания сахара в крови)
+Virtsankeräyspussi, katetripussi - мешок для сбора мочи
+VirtsaPullo, sorsa - утка
+VuodeSuoja - накладка для больничной кровати
+WC-istuimen korottaja - приподнятое сиденье для унитаза
+WC-paperi, VessaPaperi - туалетная бумага
+Yleinen hätänumero, ambulanssi - общий номер экстренной службы, скорая помощь
+Vaatteita - Одежда
+AlusHousut - трусы, трусики (naisten), кальсоны (miesten)
+AlusPaita - майка
+Hame - юбка
+hattu, pipo, myssy - шапка
+Housut - штаны
+Huivi - платок
+Kengät - обувь
+Käsineet, hanskat - перчатки
+Paita - рубашка
+RintaLiivit - бюстгальтер
+Sukat - носки
+Teippi-vaippa - подгузник
+Inko,ntinenssi,housut, pantsit - трусы-подгузники
+Inkontinenssisuoja - урологическая прокладка
+Verkkohousut, hygieniahousut, kiinnityshousut - фиксирующие трусики
+Imeä, esim. limaa - сосать
+Koukistaa kättä tai jalkaa - сгибать (руку, ногу)
+Nostaa jalkaa tai varpaita kohti kattoa - поднять ногу/ пальцы ног к потолку
+Ojentaa kättä tai jalkaa - вытянуть (руку/ ногу)
+Ponnistaa jaloilla - отталкиваться ногами

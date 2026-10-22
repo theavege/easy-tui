@@ -1,0 +1,385 @@
+about
+above
+airport
+alone
+already
+also
+always
+amazing
+angry
+animal
+another
+answer
+any
+anyone
+apartment
+around
+arrive
+ask
+at (time/place)
+aunt
+autumn (fall)
+away
+awful
+back (direction)
+bakery
+balcony
+because
+become
+before
+begin
+behind
+believe
+below
+bicycle (bike)
+bill (money)
+birthday
+body
+boring
+borrow
+bottle
+boyfriend
+break
+breakfast
+bring
+busy
+buy
+call (phone)
+camera
+car
+careful
+carry
+catch
+century
+change
+cheap
+cinema
+clothes
+coat
+cold (illness)
+computer
+concert
+conversation
+cook
+cost
+could
+cry
+dance
+dangerous
+date (time)
+dentist
+desk
+dictionary
+different
+difficult
+dinner
+doctor
+driver
+early
+easy
+email
+enjoy
+enough
+expensive
+face
+famous
+fast
+feel
+festival
+fill
+film (movie)
+find
+finish
+fly
+follow
+forget
+friendly
+from
+future
+game
+garden
+get (receive)
+get up
+give
+glass
+grammar
+group
+grow
+happen
+hard (difficult)
+hate
+have to
+healthy
+hear
+heavy
+help
+high
+history
+holiday
+hope
+horrible
+hospital
+hot (temperature)
+hour
+hungry
+if
+important
+interested
+interesting
+internet
+into
+invite
+island
+job
+journey
+jump
+just
+keep
+kind (nice)
+know
+last (final)
+late
+later
+laugh
+learn
+leave
+left (direction)
+lend
+letter
+library
+listen (to)
+little
+long
+lose
+loud
+lovely
+low
+lunch
+magazine
+make
+manager
+many
+map
+market
+married
+match (game)
+maybe
+mean
+meeting
+message
+midnight
+minute
+miss (lose/feel sad)
+mistake
+moment
+money
+month
+more
+most
+mountain
+mouth
+move (house/body)
+museum
+music
+must
+near
+need
+neighbor
+never
+new
+newspaper
+next
+nice
+noisy
+normal
+nose
+nothing
+now
+o'clock
+of
+offer
+office
+often
+on
+only
+open
+or
+order (food)
+our
+outside
+over
+paint
+pair
+parent
+party
+passport
+past
+pay
+pen
+pencil
+phone
+photo
+picnic
+picture
+place
+plane
+plant
+platform
+play (music/sport)
+pocket
+police
+post office
+prefer
+prepare
+present (gift/now)
+pretty
+problem
+quick
+quietly
+radio
+rain
+ready
+really
+reason
+red
+relax
+remember
+restaurant
+return
+rich
+ride (a bike)
+right (correct/direction)
+river
+run
+sad
+salad
+same
+sandwich
+sell
+send
+share
+she
+shirt
+shoes
+short
+should
+show
+shower
+sick (ill)
+sing
+sit
+sleep
+slow
+slowly
+snow
+somebody
+sometimes
+song
+soon
+sorry
+speak
+spend (money/time)
+spring (season)
+start
+station
+stay
+stop
+story
+strong
+student
+study
+subject
+sugar
+summer
+sun
+supermarket
+swim
+T-shirt
+take
+talk
+tall
+teach
+team
+tell
+text (message)
+than
+then
+there
+think
+thirsty
+through
+ticket
+time
+tired
+to
+today
+together
+toilet
+tomorrow
+tonight
+too (also)
+toothbrush
+topic
+tour
+tourist
+town
+traffic
+train
+travel
+trip
+try
+turn (left/right)
+twice
+umbrella
+uncle
+under
+understand
+unit
+until
+up
+use
+usually
+vacation
+vegetables
+very
+visit
+wait
+wake up
+walk
+want
+warm
+watch (TV/clock)
+wear
+weather
+website
+week
+weekend
+welcome
+well (good)
+what
+when
+where
+which
+white
+who
+why
+wife
+will (future)
+wind
+window
+winter
+with
+without
+wonderful
+word
+work (job/function)
+world
+worry
+worse
+write
+wrong
+year
+yellow
+yesterday
+young
+your

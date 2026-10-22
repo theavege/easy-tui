@@ -1,0 +1,17 @@
+[package]
+name = "easy-tui"
+version = "0.0.1"
+authors = ["Artem V. Ageev <artem.v.ageev@gmail.com>", "OpenAI Codex"]
+license = "LGPL-2.1-only"
+repository = "https://github.com/theavege/easyray-rs"
+description = "A lightweight application loop and console trait for Ratatui"
+keywords = ["tui", "ratatui", "terminal"]
+categories = ["tui"]
+readme = "README.md"
+edition = "2024"
+[dependencies]
+ratatui = { version = "0.30" }
+
+[dev-dependencies]
+rand = { version = "0.10" }
+figleter = { version = "0.2" }
